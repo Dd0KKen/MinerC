@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1757761101 source:c:\users\mashkovtsev.bronia\sfg\main.c
-	<windows.h>
-	<gl/gl.h>
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
